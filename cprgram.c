@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int num1, num2, sum;
 
@@ -90,5 +89,11 @@ int main() {
         printf("x is less than 10\n");
     }
 
+    return 0;
+}
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
     return 0;
 }
